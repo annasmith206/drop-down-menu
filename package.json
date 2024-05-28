@@ -1,0 +1,27 @@
+{
+  "name": "@annasmith206/drop-down-menu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/dropDownMenu.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annasmith206/drop-down-menu.git"
+  },
+  "author": "Anna Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annasmith206/drop-down-menu/issues"
+  },
+  "homepage": "https://github.com/annasmith206/drop-down-menu#readme",
+  "devDependencies": {
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "css-loader": "^7.1.2",
+    "style-loader": "^4.0.0"
+  }
+}
